@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="mummy"
+        android:icon="@drawable/home"
+        android:id="@+id/mummy"></item>
+
+    <item android:title="papa"
+        android:icon="@drawable/contact"
+        android:id="@+id/papa"></item>
+
+
+    <item android:title="bhaiya"
+        android:icon="@drawable/help"
+        android:id="@+id/bhaiya"></item>
+
+
+    <item android:title="ankit"
+        android:icon="@drawable/feed"
+        android:id="@+id/ankit"></item>
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">D &amp; B</string>
+
+
+    <string name="open">ankit</string>
+    <string name="close">bhup</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
